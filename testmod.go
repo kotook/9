@@ -4,3 +4,4 @@ import
 func main(){
 fmt.Println ("а67")
 }
+var s int
