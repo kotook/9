@@ -1,3 +1,3 @@
 module github.com/kotook/testmod
 
-go 1.18
+go 1.17
