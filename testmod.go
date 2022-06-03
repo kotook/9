@@ -4,5 +4,5 @@ import
    "fmt"
 )
 func main(){
-fmt.Println ("аhhh7")
+fmt.Println ("аhh7")
 }
