@@ -1,10 +1,9 @@
-package testmod
+package main
 
-import (
-
+import 
+(
 	"fmt"
 )
-
-	func main(){
+func main(){
 fmt.Println ("677")
 }
