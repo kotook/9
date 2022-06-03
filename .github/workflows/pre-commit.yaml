@@ -1,16 +1,12 @@
 name: pre-commit
-
 on:
   pull_request:
   push:
-    branches: main
-
 jobs:
   pre-commit:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: golangci-lint
     - uses: actions/setup-python@v2
-    - uses: pre-commit/action@v2.0.2
-    
+    - uses: golangci/golangci-lint-action@v2
+    - uses: pre-commit/action@v2.0.3
