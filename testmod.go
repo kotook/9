@@ -6,4 +6,3 @@ import
 func main(){
 fmt.Println ("а67")
 }
-
