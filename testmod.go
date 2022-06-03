@@ -2,5 +2,5 @@ package main
 import
 "fmt"
 func main(){
-fmt.Println ("677")
+fmt.Println ("а677")
 }
