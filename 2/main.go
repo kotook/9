@@ -11,3 +11,4 @@ func sayHello(name string) string {
 	// Измените это на "Hello %s" вместо "Hi %s".
 	return fmt.Sprintf("Hello %s", name)
 }
+var r int
