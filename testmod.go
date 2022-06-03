@@ -1,8 +1,6 @@
 package main
 import
-(
-"fmt"
-)
+("fmt")
 func main(){
 fmt.Println ("а6hh7")
 }
