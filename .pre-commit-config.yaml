@@ -10,4 +10,4 @@ repos:
     hooks:
  #  -   id: golangci-lint
     -   id: go-unit-tests
- #  -   id: go-imports
+    -   id: go-imports
